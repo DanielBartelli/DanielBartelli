@@ -1,4 +1,4 @@
-### Olá, eu sou o Daniel bartelli | Hi, I am Daniel bartelli 👋
+### Olá, eu sou o Daniel Bartelli | Hi, I am Daniel Bartelli 😃
 
  📖 Learning | JavaScrip, Html and CSS 👀
 <div>
