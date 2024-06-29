@@ -1,6 +1,6 @@
 ### Olá, eu sou o Daniel Bartelli | Hi, I am Daniel Bartelli 😃
 
- 📖 Learning | JavaScrip, Html and CSS 👀
+ 📖 Learning | React, JavaScrip and SQL 👀
 <div>
   <a href="https://github.com/DanielBartelli">
     <img src="https://github-readme-stats.vercel.app/api?username=DanielBartelli&show_icons=true&theme=dark"/>
